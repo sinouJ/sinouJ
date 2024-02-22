@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/9790f59bb6d34a29b04ccb5af4065ba0.png?r=an5" width="200" alt="Jordan Sinou's Dev Card"/></a>
+<a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/v2/3620f57ef43d4ad88653e4186e9cd5ec.png?r=hji" width="356" alt="Jordan Sinou's Dev Card"/></a>
 
 <!--
 **sinouJ/sinouJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
