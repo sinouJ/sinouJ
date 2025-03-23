@@ -2,7 +2,8 @@
 
 ## Some personal projects
 
-<a href="https://sinouj.github.io/gotham/">Gotham</a>
+- [Gotham](https://sinouj.github.io/gotham/)
+- 
 
 ## Me
 <a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/v2/3620f57ef43d4ad88653e4186e9cd5ec.png?r=hji" width="356" alt="Jordan Sinou's Dev Card"/></a>
