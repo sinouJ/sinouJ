@@ -9,7 +9,10 @@
 ## Me
 - 🔭 I’m currently working on an internal project @ Elis
 - 🌱 I’m currently learning angular, java / springboot, and everything I can learn
-<a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/v2/3620f57ef43d4ad88653e4186e9cd5ec.png?r=hji" width="356" alt="Jordan Sinou's Dev Card"/></a>
+
+<div>
+  <a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/v2/3620f57ef43d4ad88653e4186e9cd5ec.png?r=hji" width="356" alt="Jordan Sinou's Dev Card"/></a>
+</div>
 
 <!--
 **sinouJ/sinouJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
