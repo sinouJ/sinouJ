@@ -4,6 +4,7 @@
 
 - [Gotham](https://sinouj.github.io/gotham/)
 - [DIM - BDAYS 2025](https://legacydim-campain.netlify.app/)
+- [Les agents du web - Landing page](https://epic-chandrasekhar-c535cb.netlify.app/)
 
 ## Me
 <a href="https://app.daily.dev/nouuns"><img src="https://api.daily.dev/devcards/v2/3620f57ef43d4ad88653e4186e9cd5ec.png?r=hji" width="356" alt="Jordan Sinou's Dev Card"/></a>
