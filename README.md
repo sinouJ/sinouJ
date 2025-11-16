@@ -4,7 +4,8 @@
 
 - [Gotham](https://sinouj.github.io/gotham/)
 - [DIM - BDAYS 2025](https://legacydim-campain.netlify.app/)
-- [Les agents du web - Landing page](https://epic-chandrasekhar-c535cb.netlify.app/)
+- [Les agents du web - Landing page (2020)](https://epic-chandrasekhar-c535cb.netlify.app/)
+- [Générateur d'attestation (2020)](https://romantic-leavitt-5ee131.netlify.app/)
 
 ## Me
 - 🔭 I’m currently working on an internal project @ Elis
