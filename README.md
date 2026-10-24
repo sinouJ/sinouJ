@@ -8,7 +8,6 @@
 - [Générateur d'attestation (2020)](https://romantic-leavitt-5ee131.netlify.app/)
 
 ## Me
-- 🔭 I’m currently working on an internal project @ Elis
 - 🌱 I’m currently learning angular, java / springboot, and everything I can learn
 
 <div>
